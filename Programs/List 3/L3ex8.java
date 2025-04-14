@@ -15,7 +15,7 @@ class L3ex8
          
       }
       
-      JOptionPane.showMessageDialog(null, "A contagem está: "+resultado);
+      JOptionPane.showMessageDialog(null, "A soma de todos os números é: "+resultado);
    
    }
 }
